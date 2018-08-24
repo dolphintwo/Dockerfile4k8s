@@ -17,3 +17,5 @@
 |12|1.14.6|2018.1.5|docker pull dolphintwo/k8s-dns-dnsmasq-amd64:1.14.6|
 |13|1.14.7|2018.1.5|docker pull dolphintwo/k8s-dns-dnsmasq-amd64:1.14.7|
 |14|1.14.8|2018.1.5|docker pull dolphintwo/k8s-dns-dnsmasq-amd64:1.14.8|
+|15|1.14.9|2018.08.24|docker pull dolphintwo/k8s-dns-dnsmasq-amd64:1.14.9|
+|16|1.14.10|2018.08.24|docker pull dolphintwo/k8s-dns-dnsmasq-amd64:1.14.10|

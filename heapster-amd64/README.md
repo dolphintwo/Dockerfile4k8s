@@ -9,4 +9,7 @@
 |04|v1.4.2|2017.12.20|docker pull dolphintwo/heapster-amd64:v1.4.2|
 |05|v1.4.3|2017.12.20|docker pull dolphintwo/heapster-amd64:v1.4.3|
 |06|v1.5.0|2017.12.20|docker pull dolphintwo/heapster-amd64:v1.5.0|
-|07||||
+|07|v1.5.1|2018.8.23|docker pull dolphintwo/heapster-amd64:v1.5.1|
+|08|v1.5.2|2018.8.23|docker pull dolphintwo/heapster-amd64:v1.5.2|
+|09|v1.5.3|2018.8.23|docker pull dolphintwo/heapster-amd64:v1.5.3|
+|10|v1.5.4|2018.8.23|docker pull dolphintwo/heapster-amd64:v1.5.4|

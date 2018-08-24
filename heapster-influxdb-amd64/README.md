@@ -5,3 +5,4 @@
 |--|---|-----------|------------|
 |01|v1.1.1|2018.1.5|docker pull dolphintwo/heapster-influxdb-amd64:v1.1.1|
 |02|v1.3.3|2018.1.5|docker pull dolphintwo/heapster-influxdb-amd64:v1.3.3|
+|03|v1.5.2|2018.08.24|docker pull dolphintwo/heapster-influxdb-amd64:v1.5.2|

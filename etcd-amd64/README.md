@@ -14,3 +14,9 @@
 |09|3.2.14|2018.1.24|docker pull dolphintwo/etcd-amd64:3.2.14|
 |10|3.1.12|2018.8.2|docker pull dolphintwo/etcd-amd64:3.1.12|
 |11|3.2.18|2018.8.2|docker pull dolphintwo/etcd-amd64:3.2.18|
+|12|3.2.16|2018.8.23|docker pull dolphintwo/etcd-amd64:3.2.16|
+|13|3.2.17|2018.8.23|docker pull dolphintwo/etcd-amd64:3.2.17|
+|14|3.1.13|2018.8.23|docker pull dolphintwo/etcd-amd64:3.1.13|
+|15|3.1.15|2018.8.23|docker pull dolphintwo/etcd-amd64:3.1.15|
+|16|3.1.16|2018.8.23|docker pull dolphintwo/etcd-amd64:3.1.16|
+|17|3.1.17|2018.8.23|docker pull dolphintwo/etcd-amd64:3.1.17|

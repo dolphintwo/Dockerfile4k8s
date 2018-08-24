@@ -3,6 +3,8 @@
 
 |id|tag|update time|pull command|
 |--|---|-----------|------------|
-|01|v2.6.0|2018.1.5|docker pull dolphintwo/tiller:v2.6.0|
-|02|v2.8.1|2018.1.5|docker pull dolphintwo/tiller:v2.8.1|
-|03|v2.9.1|2018.1.5|docker pull dolphintwo/tiller:v2.9.1|
+|01|v2.6.0|2018.8.3|docker pull dolphintwo/tiller:v2.6.0|
+|02|v2.8.1|2018.8.3|docker pull dolphintwo/tiller:v2.8.1|
+|03|v2.9.1|2018.8.3|docker pull dolphintwo/tiller:v2.9.1|
+|04|v2.8.2|2018.08.24|docker pull dolphintwo/tiller:v2.8.2|
+|05|v2.10.0|2018.08.24|docker pull dolphintwo/tiller:v2.10.0|
